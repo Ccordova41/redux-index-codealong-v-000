@@ -1,4 +1,4 @@
-# Displaying a list of items with redux
+npm # Displaying a list of items with redux
 
 With this lesson we'll finish up the last section by displaying our list of todos. By the end of this lesson, you will be able to:
 * Display a list of elements
